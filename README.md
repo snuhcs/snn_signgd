@@ -1,4 +1,4 @@
-# Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network
+# Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network (ICML 2024)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
@@ -117,7 +117,7 @@ The repository is organized as follows:
 
 ### Description of Directories
 
-- **data/**: Stores datasets used in the project, such as CIFAR10. This directory includes necessary initialization scripts and data preparation tools.
+- **data/**: Stores datasets used in the project, such as CIFAR10. 
 
 - **docs/**: Contains documentation resources, including images and presentation slides that illustrate the concepts and results of the project.
 
